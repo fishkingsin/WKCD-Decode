@@ -1,0 +1,46 @@
+<controls>
+    <SliderFloat_Scale>
+        <name>Scale</name>
+        <value>300.000000</value>
+    </SliderFloat_Scale>
+    <SliderFloat_tweenScale>
+        <name>tweenScale</name>
+        <value>5.833984</value>
+    </SliderFloat_tweenScale>
+    <SliderInt_Image_Size>
+        <name>Image Size</name>
+        <value>44</value>
+    </SliderInt_Image_Size>
+    <SliderFloat_Easing>
+        <name>Easing</name>
+        <value>0.341133</value>
+    </SliderFloat_Easing>
+    <SliderFloat_Shader_Tolorence>
+        <name>Shader Tolorence</name>
+        <value>0.201172</value>
+    </SliderFloat_Shader_Tolorence>
+    <SliderInt_Model_Z>
+        <name>Model Z</name>
+        <value>13</value>
+    </SliderInt_Model_Z>
+    <Slider2D_Point_1>
+        <name>Point 1</name>
+        <valueX>205.555557</valueX>
+        <valueY>472.222229</valueY>
+    </Slider2D_Point_1>
+    <Slider2D_Point_2>
+        <name>Point 2</name>
+        <valueX>222.222229</valueX>
+        <valueY>161.111115</valueY>
+    </Slider2D_Point_2>
+    <Slider2D_Point_3>
+        <name>Point 3</name>
+        <valueX>555.555542</valueX>
+        <valueY>155.555557</valueY>
+    </Slider2D_Point_3>
+    <Slider2D_Point_4>
+        <name>Point 4</name>
+        <valueX>561.111084</valueX>
+        <valueY>472.222229</valueY>
+    </Slider2D_Point_4>
+</controls>

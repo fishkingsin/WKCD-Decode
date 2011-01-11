@@ -1,0 +1,70 @@
+<controls>
+    <SliderFloat_Scale>
+        <name>Scale</name>
+        <value>50.000000</value>
+    </SliderFloat_Scale>
+    <SliderInt_Image_Size>
+        <name>Image Size</name>
+        <value>73</value>
+    </SliderInt_Image_Size>
+    <SliderFloat_Image>
+        <0_x></0_x>
+        <name>Image:0 x</name>
+        <value>73.046875</value>
+        <name>Image:0 y</name>
+        <value>-5.078125</value>
+        <name>Image:0 z</name>
+        <value>0.000000</value>
+        <name>Image:1 x</name>
+        <value>0.000000</value>
+        <name>Image:1 y</name>
+        <value>-68.359375</value>
+        <name>Image:1 z</name>
+        <value>0.390625</value>
+        <name>Image:2 x</name>
+        <value>-41.015625</value>
+        <name>Image:2 y</name>
+        <value>-100.000000</value>
+        <name>Image:2 z</name>
+        <value>0.390625</value>
+        <name>Image:3 x</name>
+        <value>35.546875</value>
+        <name>Image:3 y</name>
+        <value>62.109375</value>
+        <name>Image:3 z</name>
+        <value>10.546875</value>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <0_y></0_y>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <0_z></0_z>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <1_x></1_x>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <1_y></1_y>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <1_z></1_z>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <2_x></2_x>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <2_y></2_y>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <2_z></2_z>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <3_x></3_x>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <3_y></3_y>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <3_z></3_z>
+    </SliderFloat_Image>
+</controls>

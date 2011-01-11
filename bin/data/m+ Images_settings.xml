@@ -1,0 +1,22 @@
+<controls>
+    <Slider2D_Point_0>
+        <name>Point 0</name>
+        <valueX>0.000000</valueX>
+        <valueY>0.000000</valueY>
+    </Slider2D_Point_0>
+    <Slider2D_Point_1>
+        <name>Point 1</name>
+        <valueX>0.000000</valueX>
+        <valueY>0.000000</valueY>
+    </Slider2D_Point_1>
+    <Slider2D_Point_2>
+        <name>Point 2</name>
+        <valueX>0.000000</valueX>
+        <valueY>0.000000</valueY>
+    </Slider2D_Point_2>
+    <Slider2D_Point_3>
+        <name>Point 3</name>
+        <valueX>0.000000</valueX>
+        <valueY>0.000000</valueY>
+    </Slider2D_Point_3>
+</controls>

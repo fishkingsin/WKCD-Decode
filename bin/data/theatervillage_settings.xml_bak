@@ -1,0 +1,44 @@
+<controls>
+    <SliderFloat_Scale>
+        <name>Scale</name>
+        <value>50.000000</value>
+    </SliderFloat_Scale>
+    <SliderInt_Image_Size>
+        <name>Image Size</name>
+        <value>50</value>
+    </SliderInt_Image_Size>
+    <SliderFloat_Easing>
+        <name>Easing</name>
+        <value>0.723945</value>
+    </SliderFloat_Easing>
+    <SliderFloat_Image>
+        <0_x></0_x>
+        <name>Image:0 x</name>
+        <value>0.000000</value>
+        <name>Image:0 y</name>
+        <value>0.000000</value>
+        <name>Image:0 z</name>
+        <value>0.000000</value>
+        <name>Image:1 x</name>
+        <value>0.000000</value>
+        <name>Image:1 y</name>
+        <value>0.000000</value>
+        <name>Image:1 z</name>
+        <value>0.000000</value>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <0_y></0_y>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <0_z></0_z>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <1_x></1_x>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <1_y></1_y>
+    </SliderFloat_Image>
+    <SliderFloat_Image>
+        <1_z></1_z>
+    </SliderFloat_Image>
+</controls>

@@ -1,0 +1,18 @@
+<controls>
+    <SliderFloat_Scale>
+        <name>Scale</name>
+        <value>1.000000</value>
+    </SliderFloat_Scale>
+    <SliderFloat_tweenScale>
+        <name>tweenScale</name>
+        <value>2.000000</value>
+    </SliderFloat_tweenScale>
+    <SliderInt_Image_Size>
+        <name>Image Size</name>
+        <value>50</value>
+    </SliderInt_Image_Size>
+    <SliderFloat_Easing>
+        <name>Easing</name>
+        <value>0.900000</value>
+    </SliderFloat_Easing>
+</controls>

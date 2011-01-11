@@ -1,0 +1,11 @@
+<controls>
+    <SliderFloat_Models_Z>
+        <name>Models Z</name>
+        <value>0.000000</value>
+    </SliderFloat_Models_Z>
+    <Slider2D_Point_0>
+        <name>Point 0</name>
+        <valueX>0</valueX>
+        <valueY>0</valueY>
+    </Slider2D_Point_0>
+</controls>

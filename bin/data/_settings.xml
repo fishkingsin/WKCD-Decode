@@ -1,0 +1,30 @@
+<controls>
+    <SliderFloat_timeout>
+        <name>timeout</name>
+        <value>0.100010</value>
+    </SliderFloat_timeout>
+    <SliderFloat_maskA>
+        <name>maskA</name>
+        <value>28.940001</value>
+    </SliderFloat_maskA>
+    <SliderFloat_Shader_Tolorence>
+        <name>Shader Tolorence</name>
+        <value>0.255859</value>
+    </SliderFloat_Shader_Tolorence>
+    <Toggle_Debug>
+        <name>Debug</name>
+        <value>0</value>
+    </Toggle_Debug>
+    <Toggle_bMirror>
+        <name>bMirror</name>
+        <value>1</value>
+    </Toggle_bMirror>
+    <SliderInt_VIDEO_MODE>
+        <name>VIDEO_MODE</name>
+        <value>0</value>
+    </SliderInt_VIDEO_MODE>
+    <SliderInt_tol>
+        <name>tol</name>
+        <value>70</value>
+    </SliderInt_tol>
+</controls>

@@ -1,0 +1,12 @@
+<controls>
+    <Slider2D_Point_0>
+        <name>Point 0</name>
+        <valueX>-3.333333</valueX>
+        <valueY>-1.111111</valueY>
+    </Slider2D_Point_0>
+    <Slider2D_Point_1>
+        <name>Point 1</name>
+        <valueX>41.111111</valueX>
+        <valueY>-51.111111</valueY>
+    </Slider2D_Point_1>
+</controls>

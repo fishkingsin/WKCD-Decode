@@ -1,0 +1,37 @@
+<controls>
+    <Slider2D_Point_0>
+        <name>Point 0</name>
+        <valueX>-36.666668</valueX>
+        <valueY>110.000000</valueY>
+    </Slider2D_Point_0>
+    <Slider2D_Point_1>
+        <name>Point 1</name>
+        <valueX>1.111111</valueX>
+        <valueY>133.333328</valueY>
+    </Slider2D_Point_1>
+    <Slider2D_Point_2>
+        <name>Point 2</name>
+        <valueX>-25.555555</valueX>
+        <valueY>178.888885</valueY>
+    </Slider2D_Point_2>
+    <Slider2D_Point_3>
+        <name>Point 3</name>
+        <valueX>-77.777779</valueX>
+        <valueY>58.888889</valueY>
+    </Slider2D_Point_3>
+    <Slider2D_Point_4>
+        <name>Point 4</name>
+        <valueX>4.444445</valueX>
+        <valueY>-137.777771</valueY>
+    </Slider2D_Point_4>
+    <Slider2D_Point_5>
+        <name>Point 5</name>
+        <valueX>-2.222222</valueX>
+        <valueY>-5.555555</valueY>
+    </Slider2D_Point_5>
+    <Slider2D_Point_6>
+        <name>Point 6</name>
+        <valueX>-27.777779</valueX>
+        <valueY>14.444445</valueY>
+    </Slider2D_Point_6>
+</controls>

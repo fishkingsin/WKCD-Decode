@@ -1,0 +1,33 @@
+<SETTINGS>
+	<DEBUG>0</DEBUG>
+	<FULLSCREEN>0</FULLSCREEN>
+	<CANVAS width="1360" height="768"></CANVAS>
+	<SCREENSAVER timeout="1" file="movies/instruction.mov"></SCREENSAVER>
+	<!--(2,1,"MiddleVillage");-->
+	<MODELS id="0" scale="1" foldername="overall"></MODELS>
+	<MODELS id="1" scale="1" foldername="m+"></MODELS>
+	<MODELS id="2" scale="1" foldername="middlevillage"></MODELS>
+	<MODELS id="3" scale="1" foldername="theatervillage"></MODELS>
+</SETTINGS>
+<!--<config>
+
+<input>
+	<type>camera</type>
+</input>
+
+<camera>
+	<id>0</id>
+	<w>640</w>
+	<h>480</h>
+</camera>
+
+<video>
+	<file>finger.mov</file>
+</video>
+
+<osc>
+	<host>127.0.0.1</host>
+	<port>31841</port>
+</osc>
+
+</config>-->
